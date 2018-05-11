@@ -1,0 +1,21 @@
+{
+	"name": "vue-simple-socket",
+	"version": "1.0.0",
+	"license": "MIT",
+	"author": "Martin PARENT <mparent@adon-immo.com> (https://adon-immo.com)",
+	"description": "A simple Vue wrapper on email-validator, providing an easy way to validate email syntax",
+	"keywords": [
+		"simple",
+		"vue",
+		"socket",
+		"websocket"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MartyDisco/vue-simple-socket.git"
+	},
+	"main": "index.js",
+	"dependencies": {
+		"socket.io-client": "^2.1.0"
+	}
+}
