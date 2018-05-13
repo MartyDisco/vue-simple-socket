@@ -1,4 +1,4 @@
-# AdOn Candle
+# Vue Simple Socket
 
 A simple Vue wrapper on socket.io-client, providing an easy way to use sockets
 
